@@ -1,5 +1,10 @@
 # slackluence
-Takes a Slack export file and archives messages into Confluence pages (Python 3, dirty, brittle, but cheaper than paying for unlimited Slack retention)
+Takes a Slack export file and archives messages into Confluence pages
+
+- Python 3
+- dirty
+- brittle
+- cheaper than paying for unlimited Slack retention
 
 ### Preserves:
 * Messages
