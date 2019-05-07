@@ -20,7 +20,7 @@ Takes a Slack export file and archives messages into Confluence pages
 ## Requirements:
 * Python 3
 * A Slack [User Token](https://api.slack.com/docs/token-types#user)
-* A Confluence [Application Link and associated OAuth token/key](https://confluence.atlassian.com/doc/linking-to-another-application-360677690.html)
+* A Confluence [Application Link and associated OAuth token/key](https://github.com/cyriptix/atlassian-oauth-helper)
 
 ## Instructions:
 * Generate a Slack export and extract it somewhere
